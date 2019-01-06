@@ -1,0 +1,9 @@
+D:\vs  编译\joinup1\joinup1\bin\Release\joinup1.exe.config
+D:\vs  编译\joinup1\joinup1\bin\Release\joinup1.exe
+D:\vs  编译\joinup1\joinup1\bin\Release\joinup1.pdb
+D:\vs  编译\joinup1\joinup1\obj\Release\joinup1.合并文件夹.resources
+D:\vs  编译\joinup1\joinup1\obj\Release\joinup1.Properties.Resources.resources
+D:\vs  编译\joinup1\joinup1\obj\Release\joinup1.csproj.GenerateResource.cache
+D:\vs  编译\joinup1\joinup1\obj\Release\joinup1.csproj.CoreCompileInputs.cache
+D:\vs  编译\joinup1\joinup1\obj\Release\joinup1.exe
+D:\vs  编译\joinup1\joinup1\obj\Release\joinup1.pdb
